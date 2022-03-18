@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f8RmUXAGyk6hNlcGakz5lrRUmm+Zqh2ABIcMrrD2aZE=",
+  "Source": "Sample.Bundle",
+  "BasePath": "_content/Sample.Bundle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

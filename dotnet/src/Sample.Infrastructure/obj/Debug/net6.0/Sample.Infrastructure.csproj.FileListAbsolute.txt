@@ -1,0 +1,11 @@
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\bin\Debug\net6.0\Sample.Infrastructure.deps.json
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\bin\Debug\net6.0\Sample.Infrastructure.dll
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\bin\Debug\net6.0\ref\Sample.Infrastructure.dll
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\bin\Debug\net6.0\Sample.Infrastructure.pdb
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.AssemblyInfoInputs.cache
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.AssemblyInfo.cs
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.dll
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\ref\Sample.Infrastructure.dll
+C:\github\sample-api\dotnet\src\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.pdb

@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ad519ca-6919-412b-ab19-a074ed12bac4": {
+      "ProjectGuid": "1ad519ca-6919-412b-ab19-a074ed12bac4",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "a0e1f19d-1e6f-458d-a36e-d8501f34a078": {
+      "ProjectGuid": "a0e1f19d-1e6f-458d-a36e-d8501f34a078",
+      "DisplayName": "schemas",
+      "ColorIndex": 1
+    },
+    "525496ea-5003-4da2-9edd-7525ef779117": {
+      "ProjectGuid": "525496ea-5003-4da2-9edd-7525ef779117",
+      "DisplayName": "Sample.Bundle.UnitTests",
+      "ColorIndex": 2
+    },
+    "2f6c45bf-b10c-4fca-9022-933896ccf0a2": {
+      "ProjectGuid": "2f6c45bf-b10c-4fca-9022-933896ccf0a2",
+      "DisplayName": "Sample.Apis.UnitTests",
+      "ColorIndex": 3
+    },
+    "a0aa8d02-d5c8-4ff0-a6d5-9267c0436f97": {
+      "ProjectGuid": "a0aa8d02-d5c8-4ff0-a6d5-9267c0436f97",
+      "DisplayName": "Sample.Contracts.UnitTests",
+      "ColorIndex": 4
+    },
+    "3ee3af96-3a30-4084-a9d9-d8f3cdd63a14": {
+      "ProjectGuid": "3ee3af96-3a30-4084-a9d9-d8f3cdd63a14",
+      "DisplayName": "Sample.Contracts.Mapping.UnitTests",
+      "ColorIndex": 5
+    },
+    "fc211c48-4192-4431-92fb-d88c2b81260a": {
+      "ProjectGuid": "fc211c48-4192-4431-92fb-d88c2b81260a",
+      "DisplayName": "Sample.Contracts.Mapping.UnitTests",
+      "ColorIndex": 6
+    },
+    "f759a34b-4034-4d9b-b963-9a1fa9eca900": {
+      "ProjectGuid": "f759a34b-4034-4d9b-b963-9a1fa9eca900",
+      "DisplayName": "Sample.DataAccess.Abstractions.UnitTests",
+      "ColorIndex": 7
+    },
+    "bb0983be-ac44-4fd9-938e-d04422ce5566": {
+      "ProjectGuid": "bb0983be-ac44-4fd9-938e-d04422ce5566",
+      "DisplayName": "Sample.DataAccess.SAP.UnitTests",
+      "ColorIndex": 8
+    },
+    "f80bbebc-ca00-4f57-b6b2-ed6182953b99": {
+      "ProjectGuid": "f80bbebc-ca00-4f57-b6b2-ed6182953b99",
+      "DisplayName": "Sample.Domain.UnitTests",
+      "ColorIndex": 9
+    },
+    "8a7fbd7c-7ac2-4113-9c38-86634a41c85e": {
+      "ProjectGuid": "8a7fbd7c-7ac2-4113-9c38-86634a41c85e",
+      "DisplayName": "Sample.Apis",
+      "ColorIndex": 10
+    },
+    "50d27842-1892-489a-b4d0-640c580b2da5": {
+      "ProjectGuid": "50d27842-1892-489a-b4d0-640c580b2da5",
+      "DisplayName": "Sample.Bundle",
+      "ColorIndex": 11
+    },
+    "62bd4a0a-8047-404a-8e8c-f89b85e7459b": {
+      "ProjectGuid": "62bd4a0a-8047-404a-8e8c-f89b85e7459b",
+      "DisplayName": "Sample.Bundle",
+      "ColorIndex": 12
+    },
+    "a857f091-8984-4125-bce6-4b9ff470e51c": {
+      "ProjectGuid": "a857f091-8984-4125-bce6-4b9ff470e51c",
+      "DisplayName": "Sample.Contracts",
+      "ColorIndex": 13
+    },
+    "6469fd0a-2374-4bf1-a0e4-884739835f00": {
+      "ProjectGuid": "6469fd0a-2374-4bf1-a0e4-884739835f00",
+      "DisplayName": "Sample.Contracts.Mapping",
+      "ColorIndex": 14
+    },
+    "98034273-4b11-415d-bf74-97e8dc3339d3": {
+      "ProjectGuid": "98034273-4b11-415d-bf74-97e8dc3339d3",
+      "DisplayName": "Sample.DataAccess.Abstractions",
+      "ColorIndex": 15
+    },
+    "c65a452d-cd22-449f-91ab-9f8d61db6776": {
+      "ProjectGuid": "c65a452d-cd22-449f-91ab-9f8d61db6776",
+      "DisplayName": "Sample.Domain",
+      "ColorIndex": 0
+    },
+    "b8e95905-ea48-4be5-83bb-a26e3eae405a": {
+      "ProjectGuid": "b8e95905-ea48-4be5-83bb-a26e3eae405a",
+      "DisplayName": "Sample.DomainServices",
+      "ColorIndex": 1
+    },
+    "95526849-64a5-450f-8301-2fe6872a7554": {
+      "ProjectGuid": "95526849-64a5-450f-8301-2fe6872a7554",
+      "DisplayName": "Sample.DomainServices.Abstractions",
+      "ColorIndex": 2
+    },
+    "cca1602b-84fb-425e-89f4-65e57efef584": {
+      "ProjectGuid": "cca1602b-84fb-425e-89f4-65e57efef584",
+      "DisplayName": "Sample.Infrastructure",
+      "ColorIndex": 3
+    },
+    "8adb0425-3a92-4308-b4c5-d41133881c7c": {
+      "ProjectGuid": "8adb0425-3a92-4308-b4c5-d41133881c7c",
+      "DisplayName": "Sample.DataAccess.SAP",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
